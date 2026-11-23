@@ -96,7 +96,7 @@ p{margin:0}
 .tag{position:absolute;left:12px;bottom:-15px;padding:5px 12px;border-radius:99px;background:var(--c);color:#121319;font:650 13px var(--text);white-space:nowrap;opacity:0;translate:0 8px;transition:opacity .4s,translate .4s;box-shadow:0 8px 20px -6px rgba(0,0,0,.5)}
 .c-kafe{left:0;top:7%;width:64%;z-index:2}
 .c-velos{right:-4%;top:-1%;width:58%;z-index:3}
-.c-rig{left:6%;bottom:1%;width:46%;z-index:1}
+.c-rig{left:2%;bottom:4%;width:54%;z-index:1}
 .c-metro{right:-4%;bottom:4%;width:50%;z-index:4}
 .c-metro .tag{left:50%;translate:-50% 8px}
 .hero-art.live .card:not(.on){filter:saturate(.8) brightness(.82)}
@@ -339,7 +339,7 @@ figcaption{font-weight:600;font-size:15px;margin-bottom:14px}
   .hero-in{grid-template-columns:minmax(0,1fr);padding-top:28px}
   .hero-art{max-width:600px;width:100%;justify-self:center;margin:8px 0 24px}
   .c-velos{right:-2%;top:-3%;width:54%}
-  .c-rig{left:0;bottom:-4%;width:45%}
+  .c-rig{left:-2%;bottom:0;width:52%}
   .c-metro{right:-2%;bottom:2%;width:51%}
   .info,.game,.about,.group{grid-template-columns:minmax(0,1fr)}
   .head{position:static}
