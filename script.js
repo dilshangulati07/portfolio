@@ -141,7 +141,7 @@ const answers = {
   built: { a: 'Four things he uses himself: me, Rigsmith for building PCs in 3D, Kafé Bangkok for cafés, and Metro Buddy for the trains.', act: ['See Rigsmith next', '#rigsmith'] },
   january: { a: "Yes. He's in his third year at Siam University and looking for an internship in Bangkok from January 2027.", act: ['Email him', '#contact'] },
   fast: { a: 'About 1.8 seconds for a command and 2.3 for a chat. I used to take 25, until he rebuilt how I load and speak.', act: ['How he did it', '#velos-info'] },
-  work: { a: "He writes the plan first, builds fast with Claude Code, and lets tests decide when it's done. I have 877 of them.", act: ['More about him', '#about'] },
+  work: { a: "He writes the plan first, builds fast, and lets tests decide when it's done. I have 877 of them.", act: ['More about him', '#about'] },
   reach: { a: `Email is fastest: ${EMAIL}. He's on LinkedIn and GitHub too.`, act: ['Copy email', 'copy'] }
 };
 const talkEl = $('#talk'), cap = $('#caption'), capSr = $('#caption-sr'), slot = $('#act-slot');
