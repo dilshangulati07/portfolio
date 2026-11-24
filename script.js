@@ -3,7 +3,7 @@ const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
 const $ = (s, r = document) => r.querySelector(s);
 const $$ = (s, r = document) => [...r.querySelectorAll(s)];
 const wait = ms => new Promise(r => setTimeout(r, ms));
-const EMAIL = 'dilshangulati@gmail.com';
+const EMAIL = 'dilshangulati07@gmail.com';
 
 /* ---------- the orb: one WebGL fragment shader ---------- */
 const FS = `
